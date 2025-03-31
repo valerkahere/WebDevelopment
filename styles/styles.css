@@ -402,7 +402,8 @@ p {
     display: flex;
     gap: 20px; /* Space between columns */
     border: 2px solid #ccc; /* Outer border around all columns */
-    padding: 20px;
+    padding: 0;
+    margin: 1%;
     border-radius: 10px; /* Rounded corners */
     background-color: #f9f9f9; /* Light background */
 }
@@ -411,7 +412,7 @@ p {
     flex: 1;
     padding: 15px;
     border-right: 2px solid #aaa; /* Border between columns */
-    text-align: justify; /* Align text for better readability */
+    /* Align text for better readability */
 }
 
 /* Remove right border from the last column */
@@ -579,7 +580,7 @@ footer p a i {
 
 .bead-stats-table th, .bead-stats-table td {
     border: 2px solid #ddd;
-    padding: 10px;
+    padding: 1%;
     text-align: left;
 }
 
