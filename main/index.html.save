@@ -141,31 +141,4 @@
           </tr>
           <tr>
             <td>Czech Fire Polished</td>
-            <td>4mm, 6mm, 8mm</td>
-            <td>Glass</td>
-            <td>Faceted Round</td>
-            <td>Stringing, Weaving accents</td>
-          </tr>
-        </tbody>
-      </table>
-    </section>
-
-    <h2>Our location:</h2>
-    <div class="map-responsive">
-      <iframe class="map" title="Map showing location of Sligo Regional Park"
-        aria-label="Map showing location of Sligo Regional Park"
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3295.6862526352284!2d-8.452196870344146!3d54.261466462166005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485ee9b02ae2e89f%3A0x222e14a48a810453!2sSligo%20Regional%20Park!5e0!3m2!1sen!2sie!4v1742315894128!5m2!1sen!2sie"
-        allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-      </iframe>
-    </div>
-  </main>
-
-  <footer>
-    <p>This is a college project completed as part of an assignment. <a
-        href="https://www.instagram.com/rocaille.shop.dp/" style="text-decoration: none;"></a></p>
-    <p>&copy; Rocaille shop 2025. ALL RIGHTS RESERVED</p>
-  </footer>
-
-</body>
-
-</html>
+            <td>4mm, 6mm, 8
